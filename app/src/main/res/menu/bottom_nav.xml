@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+
+        android:orderInCategory="100"
+        android:id="@+id/homeFragment"
+        android:title="Home"
+        android:icon="@drawable/home"
+
+        />
+    <item
+
+        android:orderInCategory="100"
+        android:id="@+id/fireStoreFragment"
+        android:title="Fire store"
+        android:icon="@drawable/_5g_"
+        />
+    <item
+
+        android:orderInCategory="100"
+        android:id="@+id/profileFragment"
+        android:title="Profile"
+        android:icon="@drawable/profile"
+        />
+</menu>
